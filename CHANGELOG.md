@@ -1,3 +1,7 @@
+## 0.3.0
+### Added
+- Added Component BurguerIngredient.js
+- Added BurguerIngredient.css
 ## 0.2.0
 ### Added
 - Added Container BurguerBuilder.js
