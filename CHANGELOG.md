@@ -1,3 +1,6 @@
+## 0.3.1
+### Added
+- Added PropType package in BurguerIngredient
 ## 0.3.0
 ### Added
 - Added Component BurguerIngredient.js
