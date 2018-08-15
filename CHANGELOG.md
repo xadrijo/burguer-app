@@ -1,3 +1,6 @@
+## 0.3.3
+### Changed Burger.js
+- Add transformedIngredients
 ## 0.3.2
 ### Changed Burger.js
 - Implement BurgerIngredient
