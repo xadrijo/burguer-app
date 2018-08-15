@@ -1,14 +1,17 @@
+## 0.4.0
+### Add BuildControl.js
+- Added Component BuildControl
 ## 0.3.4
 ### Add Validation Burger.js
-- Add validation in transformedIngredients
+- Added validation in transformedIngredients
 ## 0.3.3
 ### Changed Burger.js
-- Add transformedIngredients
+- Added transformedIngredients
 ## 0.3.2
 ### Changed Burger.js
-- Implement BurgerIngredient
+- Implemented BurgerIngredient
 ### Fix Burger name
-- Fix spelling in Burger in all files
+- Fixed spelling in Burger in all files
 ## 0.3.1
 ### Added
 - Added PropType package in BurgerIngredient
