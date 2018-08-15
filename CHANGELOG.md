@@ -1,3 +1,6 @@
+## 0.3.4
+### Add Validation Burger.js
+- Add validation in transformedIngredients
 ## 0.3.3
 ### Changed Burger.js
 - Add transformedIngredients
