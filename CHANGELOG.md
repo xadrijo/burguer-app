@@ -1,3 +1,6 @@
+## 0.5.2
+### Change [Modal.js]
+- Add purchase cancel functionality
 ## 0.5.1
 ### Change [Modal.js]
 - Add animation
