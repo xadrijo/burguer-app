@@ -1,3 +1,7 @@
+## 0.4.2
+### Change [BuildControl.js]
+- Added remove ingredient handler
+- Disable button less when ingredients is 0
 ## 0.4.1
 ### Change [BuildControl.js]
 - Added add ingredient handler
