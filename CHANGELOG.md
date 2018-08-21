@@ -1,3 +1,6 @@
+## 0.5.1
+### Change [Modal.js]
+- Add animation
 ## 0.5.0
 ### Add [OrderSummary.js]
 - Add Order summary and modal
