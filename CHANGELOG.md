@@ -1,3 +1,7 @@
+## 0.4.3
+### Change [BuildControls.js]
+- Show current price
+- Show 2 decimals in price
 ## 0.4.2
 ### Change [BuildControl.js]
 - Added remove ingredient handler
