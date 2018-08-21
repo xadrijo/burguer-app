@@ -1,3 +1,6 @@
+## 0.5.0
+### Add [OrderSummary.js]
+- Add Order summary and modal
 ## 0.4.4
 ### Change [BurguerBuilder.js]
 - Add order price button
