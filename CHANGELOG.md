@@ -1,6 +1,9 @@
+## 0.7.1
+### Change [Toolbar.js]
+- Fix navigation folder location
 ## 0.7.0
 ### Add [Toolbar.js]
-- Add navigation
+- Add Component Navigation
 ## 0.6.2
 ### Change [OrderSummary.js]
 - Add price in summary
