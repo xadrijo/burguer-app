@@ -1,3 +1,6 @@
+## 0.6.2
+### Change [OrderSummary.js]
+- Add price in summary
 ## 0.6.1
 ### Change [OrderSummary.js]
 - Add Danger and Success button
