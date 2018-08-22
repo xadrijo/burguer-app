@@ -1,7 +1,10 @@
+## 0.10.2
+### Change [CSS]
+- Make App responsive
 ## 0.10.1
-### Chaneg [SideDrawer.js]
+### Change [SideDrawer.js]
 - Fixed Logo Height
-### Chaneg [Toolbar.js]
+### Change [Toolbar.js]
 - Fixed Logo Height
 ## 0.10.0
 ### Add [SideDrawer.js]
