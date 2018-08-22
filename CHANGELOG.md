@@ -1,6 +1,11 @@
+## 0.11.0
+### Add [DrawerToggle.js]
+- Add DrawerToggle Component
+### Change [Toolbar.js]
+- Add SideDrawer Handler
 ## 0.10.3
 ### Change [SideDrawer.js]
-- Reuse Backdrop component
+- Reuse Backdrop Component
 - Hide SideDrawer and Backdrope
 ## 0.10.2
 ### Change [CSS]
