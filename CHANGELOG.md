@@ -1,12 +1,19 @@
+## 0.9.0
+### Add [NavigationItems.js]
+- Add NavigationItems Component
+### Add [NavigationItem.js]
+- Add NavigationItem Component
+### Change [Toolbar.js]
+- Add NavigationItems
 ## 0.8.0
 ### Add [Logo.js]
-- Add Component Logo
+- Add Logo Component
 ## 0.7.1
 ### Change [Toolbar.js]
 - Fix navigation folder location
 ## 0.7.0
 ### Add [Toolbar.js]
-- Add Component Navigation
+- Add Navigation Component
 ## 0.6.2
 ### Change [OrderSummary.js]
 - Add price in summary
@@ -15,7 +22,7 @@
 - Add Danger and Success button
 ## 0.6.0
 ### Add [Button.js]
-- Add Component Button
+- Add Button Component
 ## 0.5.2
 ### Change [Modal.js]
 - Add purchase cancel functionality
@@ -41,7 +48,7 @@
 - Added add ingredient handler
 ## 0.4.0
 ### Add [BuildControl.js]
-- Added Component BuildControl
+- Added BuildControl Component
 ## 0.3.4
 ### Add Validation [Burger.js]
 - Added validation in transformedIngredients
@@ -57,17 +64,17 @@
 ### Add
 - Added PropType package in BurgerIngredient
 ## 0.3.0
-### Add
-- Added Component BurgerIngredient.js
-- Added BurgerIngredient.css
+### Add [BurgerIngredient.js]
+- Added BurgerIngredient Component
 ## 0.2.0
-### Add
-- Added Container BurgerBuilder.js
+### Add [BurgerBuilder.js]
+- Added BurgerBuilder Container
 - Added Layout.css
 ## 0.1.0
-### Add
-- Added Component Layout.js
-- Added HOC Aux.js
+### Add [Layout.js]
+- Added Layout Component
+### Add [Aux.js]
+- Added Aux HOC
 ## 0.0.1
 ### Add
 - Initial structure from create-react-app
