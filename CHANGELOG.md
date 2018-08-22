@@ -1,3 +1,6 @@
+## 0.7.0
+### Add [Toolbar.js]
+- Add navigation
 ## 0.6.2
 ### Change [OrderSummary.js]
 - Add price in summary
