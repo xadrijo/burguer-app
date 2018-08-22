@@ -1,3 +1,6 @@
+## 0.8.0
+### Add [Logo.js]
+- Add Component Logo
 ## 0.7.1
 ### Change [Toolbar.js]
 - Fix navigation folder location
