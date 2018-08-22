@@ -1,3 +1,6 @@
+## 0.6.1
+### Change [OrderSummary.js]
+- Add Danger and Success button
 ## 0.6.0
 ### Add [Button.js]
 - Add Component Button
