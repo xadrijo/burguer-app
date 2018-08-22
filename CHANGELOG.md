@@ -1,3 +1,6 @@
+## 0.11.4
+### Change [Folder Structure]
+- Organize Folder Structure
 ## 0.11.3
 ### Change [Modal.js]
 - Improving performance
