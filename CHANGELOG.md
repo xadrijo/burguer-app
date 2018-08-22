@@ -1,3 +1,8 @@
+## 0.10.1
+### Chaneg [SideDrawer.js]
+- Fixed Logo Height
+### Chaneg [Toolbar.js]
+- Fixed Logo Height
 ## 0.10.0
 ### Add [SideDrawer.js]
 - Add SideDrawer Component
