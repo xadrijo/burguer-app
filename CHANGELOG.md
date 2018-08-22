@@ -1,3 +1,6 @@
+## 0.10.0
+### Add [SideDrawer.js]
+- Add SideDrawer Component
 ## 0.9.0
 ### Add [NavigationItems.js]
 - Add NavigationItems Component
