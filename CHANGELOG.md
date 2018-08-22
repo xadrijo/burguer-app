@@ -1,3 +1,6 @@
+## 0.11.2
+### Fix [BurgerIngredient.js]
+- Fix console error about prop-type typo
 ## 0.11.1
 ### Add [DrawerToggle.css]
 - Add hamburger in menu
