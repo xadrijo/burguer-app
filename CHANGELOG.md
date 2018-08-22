@@ -1,3 +1,6 @@
+## 0.11.3
+### Change [Modal.js]
+- Improving performance
 ## 0.11.2
 ### Fix [BurgerIngredient.js]
 - Fix console error about prop-type typo
