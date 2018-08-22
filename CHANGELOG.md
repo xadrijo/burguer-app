@@ -1,3 +1,6 @@
+## 0.6.0
+### Add [Button.js]
+- Add Component Button
 ## 0.5.2
 ### Change [Modal.js]
 - Add purchase cancel functionality
